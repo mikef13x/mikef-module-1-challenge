@@ -8,9 +8,7 @@ In this project we were assigned to fix and restyle the html code so that it fol
 
 ## Site Link
 https://mikef13x.github.io/mikef-module-1-challenge/Develop/
-<<<<<<< HEAD
 
 ## Note
 Worked with my wife Kayla Freeman on this homework assignment, she is in the same course.
-=======
->>>>>>> 0a22c0dc671a90bbbf66b179bbafa257c168c759
+
